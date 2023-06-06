@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import React, { useRef } from "react";
+import Header from "./components/Header";
+import Home from "./components/Home";
+import About from "./components/About";
+import Information from "./components/Information";
+import Projects from "./components/Projects";
+import Blogs from "./components/Blogs";
+import Footer from "./components/Footer";
 
 function App() {
+  const homeRef = useRef(null);
+  const inforRef = useRef(null);
+  const projectRef = useRef(null);
+  const blogRef = useRef(null);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header
+        homeRef={homeRef}
+        inforRef={inforRef}
+        projectRef={projectRef}
+        blogRef={blogRef}
+      />
+      <Home homeRef={homeRef} />
+      <About />
+      <Information inforRef={inforRef} />
+      <Projects projectRef={projectRef} />
+      <Blogs blogRef={blogRef} />
+      <Footer />
     </div>
   );
 }
