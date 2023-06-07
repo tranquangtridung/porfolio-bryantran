@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-export default function Home({homeRef}) {
+export default function Home({ homeRef }) {
   return (
     <Wrapper>
       <div ref={homeRef}>
@@ -29,8 +29,8 @@ export default function Home({homeRef}) {
                     marginBottom: "15px",
                   }}
                 >
-                  We work with professionals and leaders who want to build
-                  careers that fulfil them intellectually, financially
+                  I work with dedication and professionalism, aiming to achieve
+                  effectiveness for my clients.
                 </p>
               </HomeIntro>
             </TextContent>
