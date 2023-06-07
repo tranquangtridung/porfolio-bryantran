@@ -76,7 +76,7 @@ export default function Information({ inforRef }) {
             <MainContent>
               <ImgWrap>
                 <ImgDiv>
-                  <ImgStyled src="IMG_0695.jpg" />
+                  <ImgStyled src="IMG_0695.JPG" alt="Tri_Dung_Img"/>
                 </ImgDiv>
               </ImgWrap>
               <ContactWrap>
