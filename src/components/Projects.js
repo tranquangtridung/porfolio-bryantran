@@ -54,6 +54,20 @@ export default function Projects({ projectRef }) {
                   More 12K Folowers
                 </li>
               </ul>
+
+              <ul className="social-link">
+                <li>
+                  <a
+                    href="https://drive.google.com/drive/folders/1to1bKwovc9U67UzGw9AIZae4IJQ6cNsV"
+                    target="_blank"
+                  >
+                    <i class="fab fa-google-drive"></i>
+                  </a>
+                </li>
+                <li style={{ padding: "0 1.5rem", fontWeight: "bold" }}>
+                  See My Drive
+                </li>
+              </ul>
             </HomeIntro>
           </TextContent>
           <DivImgStyled>

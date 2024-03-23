@@ -39,7 +39,7 @@ export default function Home({ homeRef }) {
                 <div
                   style={{ width: "60%", margin: "auto", minWidth: "320px" }}
                 >
-                  <ImgHome src="IMG_0695.JPG" />
+                  <ImgHome src="/IMG_0695.JPG" alt="IMG" />
                 </div>
               </ImageContent>
             </DivImgStyled>
@@ -172,11 +172,6 @@ const ImageContent = styled.div`
 `;
 
 const ImgHome = styled.img`
-  //   position: absolute;
-  //   top: 0;
-  //   left: 0;
-  //   right: 0;
-  //   bottom: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
