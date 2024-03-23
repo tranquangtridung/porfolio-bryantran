@@ -51,23 +51,38 @@ export default function Information({ inforRef }) {
                 <ListExStyled>
                   <TimeStyled>2022 - Present</TimeStyled>
                   <TitleList>Marketer</TitleList>
+                  <p>I work as a freelance marketer at Moy.camera.</p>
+                  <TitleList>Achivement</TitleList>
                   <p>
-                  I work as a freelance marketer at Moy.camera.
+                    Reached nearly 30k followers with an annual revenue of
+                    around 5 billion
                   </p>
                 </ListExStyled>
                 <ListExStyled>
                   <TimeStyled>2023</TimeStyled>
                   <TitleList>Marketer</TitleList>
-                  <p>
-                  I am interning as a Facebook Ads intern at Jobsgo. 
-                  </p>
+                  <p>I am interning as a Facebook Ads intern at Jobsgo.</p>
                 </ListExStyled>
                 <ListExStyled>
                   <TimeStyled>2023</TimeStyled>
                   <TitleList>Marketer</TitleList>
                   <p>
-                  I work as a freelance marketer at Bánh Mỳ 35 Thái Thịnh.
+                    I work as a freelance marketer at Bánh Mỳ 35 Thái Thịnh.
                   </p>
+                </ListExStyled>
+                <ListExStyled>
+                  <TimeStyled>2023-2024</TimeStyled>
+                  <TitleList>Marketer</TitleList>
+                  <p>I work as a marketer and sub-leader at Tester Viet</p>
+                  <TitleList>Achivement</TitleList>
+                  <p>Top 1 SEO</p>
+                </ListExStyled>
+                <ListExStyled>
+                  <TimeStyled>2023</TimeStyled>
+                  <TitleList>Marketer</TitleList>
+                  <p>I work as a freelance marketer at Flannel.baa</p>
+                  <TitleList>Achivement</TitleList>
+                  <p>Reached nearly 6k followers</p>
                 </ListExStyled>
               </ResumeBox>
             </div>
@@ -76,7 +91,7 @@ export default function Information({ inforRef }) {
             <MainContent>
               <ImgWrap>
                 <ImgDiv>
-                  <ImgStyled src="IMG_0695.JPG" alt="Tri_Dung_Img"/>
+                  <ImgStyled src="IMG_0695.JPG" alt="Tri_Dung_Img" />
                 </ImgDiv>
               </ImgWrap>
               <ContactWrap>
