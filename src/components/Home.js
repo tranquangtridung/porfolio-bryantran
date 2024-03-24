@@ -39,7 +39,7 @@ export default function Home({ homeRef }) {
                 <div
                   style={{ width: "60%", margin: "auto", minWidth: "320px" }}
                 >
-                  <ImgHome src="/IMG_0695.JPG" alt="IMG" />
+                  <ImgHome src="IMG_0695.JPG" alt="IMG" />
                 </div>
               </ImageContent>
             </DivImgStyled>
