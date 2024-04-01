@@ -33,7 +33,7 @@ export default function Projects({ projectRef }) {
                 }}
               >
                 I have helped Moy.camera achieve a follower count ranging from 0
-                to 12k within 6 months. In addition to the follower growth, the
+                to 30k within 2 years. In addition to the follower growth, the
                 revenue of Moy.camera has been quite impressive. The lowest
                 month saw the revenue nearly quadruple the advertising costs,
                 while the highest month witnessed revenue exceeding the
@@ -51,7 +51,7 @@ export default function Projects({ projectRef }) {
                   </a>
                 </li>
                 <li style={{ padding: "0 1.5rem", fontWeight: "bold" }}>
-                  More 12K Folowers
+                  More 30K Folowers
                 </li>
               </ul>
 

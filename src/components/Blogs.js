@@ -21,6 +21,7 @@ export default function Blogs({ blogRef }) {
             <Item>
               <Box>
                 <Iframe
+                  allowTransparency
                   style={{ width: "100%" }}
                   src="https://www.brandsvietnam.com/congdong/topic/332504-Doanh-nghiep-Start-up-san-pham-moi-tren-thi-truong-nen-tap-trung-vao-hoat-dong-Marketing-nao?fbclid=IwAR2_waALN_VNRGknZsx-ZvhG9XKX8zbUy5JkS5x71EFALxUZwM8wvpWInKw"
                 ></Iframe>
@@ -41,6 +42,7 @@ export default function Blogs({ blogRef }) {
             <Item>
               <Box>
                 <Iframe
+                  allowTransparency
                   style={{ width: "100%" }}
                   src="https://www.brandsvietnam.com/congdong/topic/332403-Chien-luoc-quang-cao-giup-Moy-camera-thanh-cong-tren-Instagram?fbclid=IwAR3CMS1old61dAb7XiPBP_D_Rl9fBKIJoBSKfdUmOz6WgGn2byQo7xCChGI"
                 ></Iframe>

@@ -50,8 +50,13 @@ export default function Information({ inforRef }) {
               <ResumeBox>
                 <ListExStyled>
                   <TimeStyled>2022 - Present</TimeStyled>
-                  <TitleList>Marketer</TitleList>
-                  <p>I work as a freelance marketer at Moy.camera.</p>
+                  <TitleList>Marketer at Moy.camera</TitleList>
+                  <p>
+                    Market research, marketing planning, direct execution of
+                    plans: Conducting sales programs, mini games, giveaways,
+                    booking influencers, running advertisements, reporting,
+                    analyzing results, and proposing solutions.
+                  </p>
                   <TitleList>Achivement</TitleList>
                   <p>
                     Reached nearly 30k followers with an annual revenue of
@@ -60,27 +65,38 @@ export default function Information({ inforRef }) {
                 </ListExStyled>
                 <ListExStyled>
                   <TimeStyled>2023</TimeStyled>
-                  <TitleList>Marketer</TitleList>
-                  <p>I am interning as a Facebook Ads intern at Jobsgo.</p>
+                  <TitleList>Marketer at Banh my 35 Thai Thinh</TitleList>
+                  <p>
+                    Creating content, designing graphics, running
+                    advertisements, and other related tasks.
+                  </p>
                 </ListExStyled>
                 <ListExStyled>
                   <TimeStyled>2023</TimeStyled>
-                  <TitleList>Marketer</TitleList>
+                  <TitleList>Marketer at Jobsgo</TitleList>
                   <p>
-                    I work as a freelance marketer at Bánh Mỳ 35 Thái Thịnh.
+                    Creating content, designing graphics, running
+                    advertisements, and other related tasks.
                   </p>
                 </ListExStyled>
                 <ListExStyled>
                   <TimeStyled>2023-2024</TimeStyled>
-                  <TitleList>Marketer</TitleList>
-                  <p>I work as a marketer and sub-leader at Tester Viet</p>
+                  <TitleList>Marketer at Tester Viet</TitleList>
+                  <p>
+                    Writing SEO content for Google, creating content and
+                    designing images for Facebook, managing media, serving as a
+                    sub leader overseeing the data annotation project
+                  </p>
                   <TitleList>Achivement</TitleList>
                   <p>Top 1 SEO</p>
                 </ListExStyled>
                 <ListExStyled>
                   <TimeStyled>2023</TimeStyled>
-                  <TitleList>Marketer</TitleList>
-                  <p>I work as a freelance marketer at Flannel.baa</p>
+                  <TitleList>Marketer at Flannel.baa</TitleList>
+                  <p>
+                    Developing marketing strategies, running advertising
+                    campaigns, reporting, and analyzing data.
+                  </p>
                   <TitleList>Achivement</TitleList>
                   <p>Reached nearly 6k followers</p>
                 </ListExStyled>
