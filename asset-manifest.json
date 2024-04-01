@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/porfolio-bryantran/static/css/main.1e3d164a.css",
-    "main.js": "/porfolio-bryantran/static/js/main.b49ed27e.js",
+    "main.js": "/porfolio-bryantran/static/js/main.710d7ae4.js",
     "static/js/787.1ed0c42c.chunk.js": "/porfolio-bryantran/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/porfolio-bryantran/index.html",
     "main.1e3d164a.css.map": "/porfolio-bryantran/static/css/main.1e3d164a.css.map",
-    "main.b49ed27e.js.map": "/porfolio-bryantran/static/js/main.b49ed27e.js.map",
+    "main.710d7ae4.js.map": "/porfolio-bryantran/static/js/main.710d7ae4.js.map",
     "787.1ed0c42c.chunk.js.map": "/porfolio-bryantran/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e3d164a.css",
-    "static/js/main.b49ed27e.js"
+    "static/js/main.710d7ae4.js"
   ]
 }
